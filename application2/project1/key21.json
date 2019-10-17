@@ -1,10 +1,8 @@
-[
-    {
-        "CreateIndex": 43,
-        "Flags": 0,
-        "Key": "application2/project1/key21",
-        "LockIndex": 0,
-        "ModifyIndex": 43,
-        "Value": "keytwoone"
-    }
-]
+{
+    "CreateIndex": 43,
+     "Flags": 0,
+     "Key": "application2/project1/key21",
+     "LockIndex": 0,
+     "ModifyIndex": 43,
+     "Value": "keytwoone"
+}
