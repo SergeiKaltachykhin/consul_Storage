@@ -4,5 +4,5 @@
         "Key": "application1/project2/key12",
         "LockIndex": 0,
         "ModifyIndex": 42,
-        "Value": "keyonetwo_edited_by_script"
+        "Value": "keyonetwo_updated_with_script"
 }
