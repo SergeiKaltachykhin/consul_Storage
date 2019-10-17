@@ -4,5 +4,5 @@
         "Key": "testkey",
         "LockIndex": 0,
         "ModifyIndex": 43,
-        "Value": "testkey11111"
+        "Value": "testkey11111_updated_with_script"
     }
